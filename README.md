@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(90deg, #FF6F61, #6B5B95); color: white; padding: 20px; border-radius: 10px;">
-  <h1>👋 Hello, I'm Rahi Patel</h1>
+  <h1>👋 Hello, I'm DK </h1>
 </div>
 
 
@@ -16,7 +16,6 @@
 
 - 👨‍💻 Creating scalable web applications and exploring cutting-edge technologies
 - 💬 Let's discuss **Python, Cybersecurity, Ethical Hacking, MongoDB**, and other web technologies
-- 📫 Reach me at: [Rahivp8@gmail.com](mailto:rahivp8@gmail.com)
 - ⚡ Fun Fact: **Computers are the only things where too much heat causes freezing!** 🕵️‍♂️
 
 ## 📊 GitHub Stats
@@ -43,10 +42,6 @@
 
 ## 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/patelrahiv" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://instagram.com/dk.gz" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FFA116?style=for-the-badge&logo=instagram&logoColor=White" alt="Instagram" />
   </a>
