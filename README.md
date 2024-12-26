@@ -2,7 +2,6 @@
   <h1>👋 Hello, I'm Cyber DK </h1>
 </div>
 
-<h1 style="color:black; background-color:black; text-align:center;">Rahi Patel</h1>
 
 
 <p align="center">
