@@ -1,5 +1,5 @@
 <div align="center" style="background: linear-gradient(90deg, #FF6F61, #6B5B95); color: white; padding: 20px; border-radius: 10px;">
-  <h1>👋 Hello, I'm Cyber DK<h1 style="opacity: 0;">=Rahi Patel</h1></h1>
+  <h1>👋 Hello, I'm Cyber DK<h1 style="opacity: hidden;">=Rahi Patel</h1></h1>
 </div>
 
 
